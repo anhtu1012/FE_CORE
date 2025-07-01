@@ -1,0 +1,12 @@
+// Home page styles
+.home-page {
+  width: 100%;
+  min-height: 100vh;
+  padding: 2rem;
+
+  // Add your home page specific styles here
+
+  @media (max-width: 768px) {
+    padding: 1rem;
+  }
+}
